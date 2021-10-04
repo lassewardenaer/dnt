@@ -1,0 +1,58 @@
+h2 {
+  color: white;
+  padding: 10px 10px 10px 10px;
+}
+
+.ui.borderless.top.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.middle.menu {
+  box-shadow: none;
+  border-top: grey;
+}
+
+.ui.borderless.middle.menu.next {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.footer.menu {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  box-shadow: none;
+  border: none;
+}
+
+.fitted.red.item.inverted.title {
+  background-color: red;
+  margin-right: 3px;
+}
+
+.fitted.red.item.logo {
+  background-color: red;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.ui.medlem.button {
+  color: black;
+  background-color: white;
+  border-color: black;
+}
+
+.ui.search.button {
+  color: white;
+  background-color: red;
+}
+
+.footertext {
+  color: red;
+}
+
+.ui.four.column.grid.container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
